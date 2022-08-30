@@ -19,17 +19,17 @@
 .section:nth-child(2) {
   top: 0;
   left: 50%;
-  background: #fa987d;
+  background: #D3D3D3;
 }
 .section:nth-child(3) {
   top: 50%;
   left: 0;
-  background: #72cca7;
+  background: #808080;
 }
 .section:nth-child(4) {
   top: 50%;
   left: 50%;
-  background: #10a296;
+  background: #D3D3D3;
 }
 .section.is-expanded {
   top: 0;
